@@ -10,5 +10,7 @@ var css_str = "\n \t /* this is a test */   #nav.ul, \t #stuff li, .cool #div.my
 var test = new CSStoJSObjectParser(css_str);
 
 console.log("input:\n", test.input);
+
 console.log("output:\n", test.output);
+
 console.log("jsobject:\n", test.jsobject);
