@@ -1,4 +1,4 @@
-# CSStoJSObjectParser
+# CSStoJSObjectParser Javascript Class
 
 * [Class Syntax](#class-syntax)
 * [Class Usage](#class-usage)
@@ -14,6 +14,8 @@ You could dynamically load a CSS file with the [liteAjax Javascript Library](htt
 ```JavaScript
 CSStoJSObjectParser(string)
 ```
+**string:**
+
 *string - a css styles string*
 
 ```css
