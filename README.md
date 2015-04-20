@@ -1,5 +1,5 @@
 # CSStoJSObjectParser
-A Javascript Class to Parse a CSS Style String into a Javascript Object
+A fast JavaScript Class to Parse a CSS Style String into a Javascript Object.
 
 You could dynamically load a css file with ajax and then parse it with this class into a javascript object.
 

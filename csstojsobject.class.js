@@ -1,5 +1,5 @@
 /*!
-  * CSStoJSObjectParser - v1.0 
+  * CSStoJSObjectParser - v1.0.1
   * https://github.com/peterprins/csstojsobjectparser
   *
   * Copyright 2015 Peter Prins
@@ -63,7 +63,7 @@ function CSStoJSObjectParser(css_str){
 	}catch(err_str){
     
     // we don't have an object
-    this.object = false;
+    this.jsobject = false;
     
   }
 
